@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+davechurton: Welcome to my blog!
 ---
